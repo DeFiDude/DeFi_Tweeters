@@ -1,4 +1,4 @@
-# ETHRobot-Tweets
+# ETHRobot-Tweeters
 This list is used to train @ETHRobot - a machine learning Twitter bot that learns from Ethereum &amp; DeFi tweeters to train itself.
 
 Use caution before submitting a user to the list to avoid skewing results. As an example, I didn't add @AlexMasmej to the list because out of his 10,000 total tweets, a few thousand of them are all in French and not related to cryptocurrency. This tends to have a negative effect on the bots output. This should not be a problem in the future though, as the list continues to grow.
